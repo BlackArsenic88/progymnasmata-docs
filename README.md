@@ -18,9 +18,9 @@ Progymnasmata is an offline-first iOS app that delivers one classical rhetoric e
 5. **Practice Workspace & Handbook:** An autosaving practice editor per exercise (prompt, steps, checklist) alongside a streak counter, plus a full Handbook reference covering all 15 types — definition, anatomy, how to practice, and common pitfalls.
 
 ## Docs
-- [Privacy Policy](docs/treatise_privacy_policy.md)
-- [EULA](docs/treatise_eula.md)
-- [Terms of Use](docs/treatise_terms_of_use.md)
+- [Privacy Policy](treatise_privacy_policy.md)
+- [EULA](treatise_eula.md)
+- [Terms of Use](treatise_terms_of_use.md)
 
 ## License
 
